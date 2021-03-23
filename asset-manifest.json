@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/ShashankIITKGP/Registration.git/static/js/main.f049d384.chunk.js",
-    "main.js.map": "/ShashankIITKGP/Registration.git/static/js/main.f049d384.chunk.js.map",
-    "runtime-main.js": "/ShashankIITKGP/Registration.git/static/js/runtime-main.e93c40b1.js",
-    "runtime-main.js.map": "/ShashankIITKGP/Registration.git/static/js/runtime-main.e93c40b1.js.map",
-    "static/js/2.8ee657d9.chunk.js": "/ShashankIITKGP/Registration.git/static/js/2.8ee657d9.chunk.js",
-    "static/js/2.8ee657d9.chunk.js.map": "/ShashankIITKGP/Registration.git/static/js/2.8ee657d9.chunk.js.map",
-    "index.html": "/ShashankIITKGP/Registration.git/index.html",
-    "precache-manifest.89ce19ffdf596c69ebd45b3cf8560661.js": "/ShashankIITKGP/Registration.git/precache-manifest.89ce19ffdf596c69ebd45b3cf8560661.js",
-    "service-worker.js": "/ShashankIITKGP/Registration.git/service-worker.js",
-    "static/media/checkbox.svg": "/ShashankIITKGP/Registration.git/static/media/checkbox.336023cc.svg",
-    "static/media/emptybox.svg": "/ShashankIITKGP/Registration.git/static/media/emptybox.cecb19a6.svg",
-    "static/media/eye.svg": "/ShashankIITKGP/Registration.git/static/media/eye.2b358eba.svg",
-    "static/media/eyeslash.svg": "/ShashankIITKGP/Registration.git/static/media/eyeslash.04d38908.svg",
-    "static/media/tick.svg": "/ShashankIITKGP/Registration.git/static/media/tick.91dcb128.svg"
+    "main.js": "/Registration/static/js/main.f049d384.chunk.js",
+    "main.js.map": "/Registration/static/js/main.f049d384.chunk.js.map",
+    "runtime-main.js": "/Registration/static/js/runtime-main.74bf197d.js",
+    "runtime-main.js.map": "/Registration/static/js/runtime-main.74bf197d.js.map",
+    "static/js/2.8ee657d9.chunk.js": "/Registration/static/js/2.8ee657d9.chunk.js",
+    "static/js/2.8ee657d9.chunk.js.map": "/Registration/static/js/2.8ee657d9.chunk.js.map",
+    "index.html": "/Registration/index.html",
+    "precache-manifest.af44fcf7012c552af5696f0fbd3bb064.js": "/Registration/precache-manifest.af44fcf7012c552af5696f0fbd3bb064.js",
+    "service-worker.js": "/Registration/service-worker.js",
+    "static/media/checkbox.svg": "/Registration/static/media/checkbox.336023cc.svg",
+    "static/media/emptybox.svg": "/Registration/static/media/emptybox.cecb19a6.svg",
+    "static/media/eye.svg": "/Registration/static/media/eye.2b358eba.svg",
+    "static/media/eyeslash.svg": "/Registration/static/media/eyeslash.04d38908.svg",
+    "static/media/tick.svg": "/Registration/static/media/tick.91dcb128.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e93c40b1.js",
+    "static/js/runtime-main.74bf197d.js",
     "static/js/2.8ee657d9.chunk.js",
     "static/js/main.f049d384.chunk.js"
   ]
