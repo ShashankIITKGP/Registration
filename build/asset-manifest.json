@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/ShashankIITKGP/Registration.git/static/js/main.f049d384.chunk.js",
+    "main.js.map": "/ShashankIITKGP/Registration.git/static/js/main.f049d384.chunk.js.map",
+    "runtime-main.js": "/ShashankIITKGP/Registration.git/static/js/runtime-main.e93c40b1.js",
+    "runtime-main.js.map": "/ShashankIITKGP/Registration.git/static/js/runtime-main.e93c40b1.js.map",
+    "static/js/2.8ee657d9.chunk.js": "/ShashankIITKGP/Registration.git/static/js/2.8ee657d9.chunk.js",
+    "static/js/2.8ee657d9.chunk.js.map": "/ShashankIITKGP/Registration.git/static/js/2.8ee657d9.chunk.js.map",
+    "index.html": "/ShashankIITKGP/Registration.git/index.html",
+    "precache-manifest.89ce19ffdf596c69ebd45b3cf8560661.js": "/ShashankIITKGP/Registration.git/precache-manifest.89ce19ffdf596c69ebd45b3cf8560661.js",
+    "service-worker.js": "/ShashankIITKGP/Registration.git/service-worker.js",
+    "static/media/checkbox.svg": "/ShashankIITKGP/Registration.git/static/media/checkbox.336023cc.svg",
+    "static/media/emptybox.svg": "/ShashankIITKGP/Registration.git/static/media/emptybox.cecb19a6.svg",
+    "static/media/eye.svg": "/ShashankIITKGP/Registration.git/static/media/eye.2b358eba.svg",
+    "static/media/eyeslash.svg": "/ShashankIITKGP/Registration.git/static/media/eyeslash.04d38908.svg",
+    "static/media/tick.svg": "/ShashankIITKGP/Registration.git/static/media/tick.91dcb128.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e93c40b1.js",
+    "static/js/2.8ee657d9.chunk.js",
+    "static/js/main.f049d384.chunk.js"
+  ]
+}
